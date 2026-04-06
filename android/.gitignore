@@ -1,0 +1,72 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# Flutter / Dart / Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Generated files
+GeneratedPluginRegistrant.java
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+/captures/
+/cxx/
+
+# Gradle wrapper binaries/scripts
+gradle-wrapper.jar
+/gradlew
+/gradlew.bat
+
+# Keystore / signing
+key.properties
+**/*.keystore
+**/*.jks
+
+# Optional: environment / secret files
+.env
+.env.*
+*.env
+
+# Optional: Firebase / service credentials (keep private if needed)
+service-account.json
+firebase-adminsdk.json
