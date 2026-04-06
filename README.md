@@ -1,16 +1,25 @@
-# healthguard
+# HealthGuard
 
-A new Flutter project.
+HealthGuard is a Flutter-based mobile application developed as a **Tobacco and Alcohol Awareness System**.  
+The main goal of this project is to educate users about the harmful effects of tobacco and alcohol consumption and to promote healthier lifestyle choices through awareness and prevention.
 
-## Getting Started
+## 📌 Project Objective
 
-This project is a starting point for a Flutter application.
+The objective of HealthGuard is to spread awareness about the health risks caused by tobacco and alcohol use.  
+The application provides informative content, health-related guidance, and awareness support in a simple mobile-friendly format.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Awareness about tobacco consumption
+- Awareness about alcohol consumption
+- Information on harmful health effects
+- Prevention and safety guidance
+- User-friendly interface
+- Mobile-based health awareness system
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Dart**
+- **Android Studio**
+
